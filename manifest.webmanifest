@@ -1,0 +1,9 @@
+{
+  "name": "Grossly Fit",
+  "short_name": "Grossly Fit",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#071310",
+  "theme_color": "#071310",
+  "description": "Half marathon, mountain conditioning, strength and mobility tracker"
+}
